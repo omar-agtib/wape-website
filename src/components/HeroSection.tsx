@@ -45,7 +45,7 @@ const HeroSection = () => {
               </Button>
             </div>
 
-            <div className="flex items-center gap-8 pt-4 animate-fade-up-delay-3">
+            {/* <div className="flex items-center gap-8 pt-4 animate-fade-up-delay-3">
               {[
                 { value: "500+", label: "Projects Managed" },
                 { value: "98%", label: "Client Satisfaction" },
@@ -60,7 +60,7 @@ const HeroSection = () => {
                   </div>
                 </div>
               ))}
-            </div>
+            </div> */}
           </div>
 
           <div className="relative animate-fade-up-delay-2">
